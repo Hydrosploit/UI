@@ -920,7 +920,7 @@ function Library:create(options)
 	rawset(mt, "creditsContainer", creditsTab.container)
 
 	creditsTab:credit{Name = "Narcissist", Description = "Script Developer", Discord = "Https://discord.gg/invite/celestialhub"}
-	creditsTab:credit{Name = "Mohamed Alkrad", Description = "Owner", Discord = "RP10"}
+	creditsTab:credit{Name = "Mohamed Alkrad", Description = "Owner", Discord = "Https://discord.gg/invite/celestialhub"}
 
 
 
